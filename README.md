@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JViggiani
+- 👀 I’m interested in continuous learning. I love applying new technologies to a wide array of challenges, be they in semiconductors, commercial products or otherwise.
+- 🌱 I’m currently learning Salesforce, and collaborating with a national political party to automate a donation collection process (closed codebase). 
+- 📫 How to reach me: Drop me a message on LinkedIn! https://www.linkedin.com/in/joshua-viggiani/
