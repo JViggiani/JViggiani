@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JViggiani
-- 👀 I’m interested in continuous learning. I love applying new technologies to a wide array of challenges, be they in semiconductors, commercial products or otherwise.
-- 🌱 I’m currently learning React and Django!
+- 👀 I’m interested in continuous learning. I love applying new technologies to a wide array of challenges, be they in semiconductors, creative spaces or green energy 
+- 🌱 I’m putting together a project called Dicemind
 - 📫 How to reach me: Drop me a message on LinkedIn! https://www.linkedin.com/in/joshua-viggiani/
